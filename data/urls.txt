@@ -1,1 +1,9 @@
+https://github.com/c-brenn/elixir-lisp [] A lisp I made in Elixir
+https://github.com/farazhaider/lispex [] Lisp Interpreter in Elixir https://farazhaider.github.io/lispex/…
+https://github.com/Foo42/exlisp [] Implementation of a lisp interpreter in elixir
+https://github.com/gablg1/blisp [] Biel LISP - Simple Lisp interpreter in < 50 lines of code
+https://github.com/lazycoder9/elisp [] Lisp interpretator on Elixir
 https://github.com/liveforeverx/lisir [] Simple lisp interpreter made in elixir.
+https://github.com/llamatarianism/lixp [] A lisp interpreter written in Elixir.
+https://github.com/Rob-bie/July-LISP [] A Lisp dialect in Elixir
+https://github.com/thaterikperson/erie [] A statically-typed lisp for the BEAM
