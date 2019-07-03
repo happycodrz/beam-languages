@@ -222,10 +222,11 @@ $ make update
 - [A Meta-Interpreter - Excercise - Sprint 2018](https://people.kth.se/~johanmon/courses/id1019/seminars/interpreter/interpreter.pdf)
 - [Mary Had a Little Lambda: Implementing a Minimal Lisp for Assisting with Education - 2016 - Dissertation](https://www.cosc.canterbury.ac.nz/research/reports/HonsReps/2016/hons_1604.pdf)
 - [Discover Elixir Compiler Internals - 2018/01/15 - video ](https://www.youtube.com/watch?v=kFPGmcGIrQ0)
-
+- [arbitrary code execution safely with lua and elixir - 2018/05/01](https://medium.com/appdoctor/arbitrary-code-execution-safely-with-lua-and-elixir-3de78d0d1c85) 
 
 ## General LISP articles
 - http://blog.veitheller.de/Carp_and_derive.html
 - http://kanaka.github.io/lambdaconf/ - Let's Make A LISP slides
 - https://maryrosecook.com/blog/post/little-lisp-interpreter
 - http://hyperpolyglot.org/lisp - Lisp: Common Lisp, Racket, Clojure, Emacs Lisp from HyperPolyglot
+
