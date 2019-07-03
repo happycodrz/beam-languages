@@ -1,9 +1,39 @@
-https://github.com/c-brenn/elixir-lisp [] A lisp I made in Elixir
-https://github.com/farazhaider/lispex [] Lisp Interpreter in Elixir https://farazhaider.github.io/lispex/…
-https://github.com/Foo42/exlisp [] Implementation of a lisp interpreter in elixir
-https://github.com/gablg1/blisp [] Biel LISP - Simple Lisp interpreter in < 50 lines of code
-https://github.com/lazycoder9/elisp [] Lisp interpretator on Elixir
-https://github.com/liveforeverx/lisir [] Simple lisp interpreter made in elixir.
-https://github.com/llamatarianism/lixp [] A lisp interpreter written in Elixir.
-https://github.com/Rob-bie/July-LISP [] A Lisp dialect in Elixir
-https://github.com/thaterikperson/erie [] A statically-typed lisp for the BEAM
+https://github.com/akash-akya/exscheme [elixirlang] Toy Scheme implementation in Elixir inspired by SICP
+https://github.com/alexdovzhanyn/amethyst [] 💎 The Amethyst programming language https://t.me/AmethystLang
+https://github.com/barakyo/elisper [elixirlang] Implementation of a subset of lisp in Elixir
+https://github.com/bkerley/lisp_in_elixir [elixirlang]
+https://github.com/c-brenn/elixir-lisp [elixirlang] A lisp I made in Elixir
+https://github.com/CodeSteak/Bf2nasm [] A small Brainfuck compiler written in Elixir.
+https://github.com/cpackingham/elixir_lisp_interpreter [elixirlang] A Scheme implementation in Elixir- please don't use this for anything important
+https://github.com/DCzajkowski/toothpick [] Toothpick is a simple functional language that transpiles to JavaScript AST
+https://github.com/Dzol/fable [] A small LISP lexer, parser, and evaluator in Erlang
+https://github.com/ehehalt/monkey.ex [] Monkey language interpreter written in Elixir
+https://github.com/ElixiumNetwork/AlchemyVM [] WebAssembly Virtual Machine Built In Elixir
+https://github.com/epiphone/sammal [] Interpreter for a Scheme-ish language. http://hexdocs.pm/sammal/
+https://github.com/farazhaider/lispex [elixirlang] Lisp Interpreter in Elixir https://farazhaider.github.io/lispex/…
+https://github.com/Foo42/exlisp [elixirlang] Implementation of a lisp interpreter in elixir
+https://github.com/gablg1/blisp [elixirlang] Biel LISP - Simple Lisp interpreter in < 50 lines of code
+https://github.com/i2y/jet [] Jet is a simple OOP, dynamically typed, functional language that runs on the Erlang virtual machine (BEAM). Jet's syntax is Ruby-like syntax.
+https://github.com/insomnious-melissa/melissa-rule-engine-lfe [] LFE Rule Engine
+https://github.com/justinmeiners/lisp-interpreter [] Embeddable lisp interpreter written in C.
+https://github.com/jwhiteman/a-little-elixir-goes-a-long-way [] The Little Schemer in Elixir.
+https://github.com/jwhiteman/lighthouse-scheme [elixirlang] A toy Scheme-like language on Elixir, just for fun
+https://github.com/k1complete/exprolog [] Prolog like language for elixir dsl
+https://github.com/kwmiebach/erlang_scheme [] Berlin Brown's Scheme/Lisp Interpreter in Erlang http://berlinbrowndev.blogspot.de/2008/07/neophyte-schemelisp-interpreter-in.html
+https://github.com/lazycoder9/elisp [elixirlang] Lisp interpretator on Elixir
+https://github.com/liveforeverx/lisir [elixirlang] Simple lisp interpreter made in elixir.
+https://github.com/llamatarianism/lixp [elixirlang] A lisp interpreter written in Elixir.
+https://github.com/lpil/soup [] A simple interpreted language written in Elixir
+https://github.com/marad/eljure [] Clojure like language on Erlang VM
+https://github.com/nicolasdilley/dwarf-interpreter [elixirlang] The compiler for the dwarf's language
+https://github.com/nmichel/minilisp [elixirlang] Playing with LISP
+https://github.com/nshafer/Elispir [elixirlang] Lisp-like run-time in Elixir
+https://github.com/ntchambers/whiskey [elixirlang] Irish lisp
+https://github.com/PurpleMyst/epython [elixirlang] EPython is be a toy CPython bytecode interpreter written in Elixir.
+https://github.com/Rob-bie/July-LISP [elixirlang] A Lisp dialect in Elixir
+https://github.com/rpip/plex [] Plex programming language
+https://github.com/skryl/jack [] 2 stage compiler for the Jack programming language
+https://github.com/subsetpark/pantagruel [] A program specification language with a formal syntax and ad-hoc semantics. https://hexdocs.pm/pantagruel/readme.…
+https://github.com/thaterikperson/erie [elixirlang] A statically-typed lisp for the BEAM
+https://github.com/wpcarro/lispex [elixirlang] Lisp compiler written in Elixir
+https://github.com/Zeneixe/hack-vm [] VM language running on the Hack machine
