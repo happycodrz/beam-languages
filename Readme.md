@@ -210,10 +210,10 @@ $ make update
 - [Writing a Brainfuck interpreter in Elixir, part one - 2014/10/15](https://massimoronca.it/2014/10/15/writing-a-brainfuck-interpreter-in-elixir-part-one.html)
 - [Writing a Brainfuck interpreter in Elixir, part two - 2014/11/10](https://massimoronca.it/2014/11/10/writing-a-brainfuck-interpreter-in-elixir-part-two.html)
 - [Writing An Interpreter In Elixir - Rewriting a complete Interpreter in Elixir, using only the stdlib
- - reddit discussion](https://www.reddit.com/r/elixir/comments/5q3yy5/writing_an_interpreter_in_elixir_rewriting_a/)
+- reddit discussion](https://www.reddit.com/r/elixir/comments/5q3yy5/writing_an_interpreter_in_elixir_rewriting_a/)
 
-
- - [Let’s Build A Simple Interpreter. Part 1. - ruslanspivak.com](https://ruslanspivak.com/lsbasi-part1/)
- - [A Meta-Interpreter - Excercise - Sprint 2018](https://people.kth.se/~johanmon/courses/id1019/seminars/interpreter/interpreter.pdf)
- - [Mary Had a Little Lambda: Implementing a Minimal Lisp for Assisting with Education - 2016 - Dissertation](https://www.cosc.canterbury.ac.nz/research/reports/HonsReps/2016/hons_1604.pdf)
- - [Discover Elixir Compiler Internals - 2018/01/15 - video ](https://www.youtube.com/watch?v=kFPGmcGIrQ0)
+- [Compiling a Custom AST Into Elixir Functions - 2016/05/13](https://www.smoothterminal.com/articles/compiling-a-custom-ast-into-elixir-functions)
+- [Let’s Build A Simple Interpreter. Part 1. - ruslanspivak.com](https://ruslanspivak.com/lsbasi-part1/)
+- [A Meta-Interpreter - Excercise - Sprint 2018](https://people.kth.se/~johanmon/courses/id1019/seminars/interpreter/interpreter.pdf)
+- [Mary Had a Little Lambda: Implementing a Minimal Lisp for Assisting with Education - 2016 - Dissertation](https://www.cosc.canterbury.ac.nz/research/reports/HonsReps/2016/hons_1604.pdf)
+- [Discover Elixir Compiler Internals - 2018/01/15 - video ](https://www.youtube.com/watch?v=kFPGmcGIrQ0)
