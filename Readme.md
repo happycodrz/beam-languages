@@ -204,6 +204,7 @@ $ make update
 
 
 ## Articles
+- https://monkeylang.org
 - [Writing Lispex, a Lisp interpreter in Elixir - 2018/06/03](https://medium.com/@sfhrizvi/writing-lispex-a-lisp-interpreter-in-elixir-423cd2c439ac)
 - [How to write an interpreter using Elixir - 2018/03/26](http://nicolasdilley.com/?p=1)
 - [How to write a recursive descent parser using Elixir](http://nicolasdilley.com/?p=62)
@@ -217,3 +218,8 @@ $ make update
 - [A Meta-Interpreter - Excercise - Sprint 2018](https://people.kth.se/~johanmon/courses/id1019/seminars/interpreter/interpreter.pdf)
 - [Mary Had a Little Lambda: Implementing a Minimal Lisp for Assisting with Education - 2016 - Dissertation](https://www.cosc.canterbury.ac.nz/research/reports/HonsReps/2016/hons_1604.pdf)
 - [Discover Elixir Compiler Internals - 2018/01/15 - video ](https://www.youtube.com/watch?v=kFPGmcGIrQ0)
+
+
+## General LISP articles
+- http://blog.veitheller.de/Carp_and_derive.html 
+- http://kanaka.github.io/lambdaconf/ - Let's Make A LISP slides
