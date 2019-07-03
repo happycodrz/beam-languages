@@ -225,6 +225,7 @@ $ make update
 
 
 ## General LISP articles
-- http://blog.veitheller.de/Carp_and_derive.html 
+- http://blog.veitheller.de/Carp_and_derive.html
 - http://kanaka.github.io/lambdaconf/ - Let's Make A LISP slides
-- https://maryrosecook.com/blog/post/little-lisp-interpreter 
+- https://maryrosecook.com/blog/post/little-lisp-interpreter
+- http://hyperpolyglot.org/lisp - Lisp: Common Lisp, Racket, Clojure, Emacs Lisp from HyperPolyglot
