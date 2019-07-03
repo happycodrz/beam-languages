@@ -21,6 +21,7 @@ https://github.com/justinmeiners/lisp-interpreter [] Embeddable lisp interpreter
 https://github.com/jwhiteman/a-little-elixir-goes-a-long-way [] The Little Schemer in Elixir.
 https://github.com/jwhiteman/lighthouse-scheme [elixirlang] A toy Scheme-like language on Elixir, just for fun
 https://github.com/k1complete/exprolog [] Prolog like language for elixir dsl
+https://github.com/kanaka/mal [] mal - Make a Lisp
 https://github.com/kwmiebach/erlang_scheme [] Berlin Brown's Scheme/Lisp Interpreter in Erlang http://berlinbrowndev.blogspot.de/2008/07/neophyte-schemelisp-interpreter-in.html
 https://github.com/lazycoder9/elisp [elixirlang] Lisp interpretator on Elixir
 https://github.com/liveforeverx/lisir [elixirlang] Simple lisp interpreter made in elixir. - VERY outdated, but still interesting
@@ -39,4 +40,3 @@ https://github.com/subsetpark/pantagruel [] A program specification language wit
 https://github.com/thaterikperson/erie [elixirlang] A statically-typed lisp for the BEAM
 https://github.com/wpcarro/lispex [elixirlang] Lisp compiler written in Elixir
 https://github.com/Zeneixe/hack-vm [] VM language running on the Hack machine
-https://github.com/kanaka/mal [] mal - Make a Lisp
