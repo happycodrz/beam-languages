@@ -1,4 +1,5 @@
 https://github.com/akash-akya/exscheme [elixirlang] Toy Scheme implementation in Elixir inspired by SICP
+https://github.com/akkartik/wart/ [] An experimental, small, readable Lisp with thorough unit tests and extensible functions/macros. http://akkartik.name/post/wart
 https://github.com/alexdovzhanyn/amethyst [] 💎 The Amethyst programming language https://t.me/AmethystLang
 https://github.com/barakyo/elisper [elixirlang] Implementation of a subset of lisp in Elixir
 https://github.com/bkerley/lisp_in_elixir [elixirlang]
@@ -10,6 +11,7 @@ https://github.com/Dzol/fable [] A small LISP lexer, parser, and evaluator in Er
 https://github.com/ehehalt/monkey.ex [] Monkey language interpreter written in Elixir
 https://github.com/ElixiumNetwork/AlchemyVM [] WebAssembly Virtual Machine Built In Elixir
 https://github.com/epiphone/sammal [] Interpreter for a Scheme-ish language. http://hexdocs.pm/sammal/
+https://github.com/fabrik42/writing_an_interpreter_in_elixir [] Elixir implementation of an interpreter for the Monkey programming language
 https://github.com/farazhaider/lispex [elixirlang] Lisp Interpreter in Elixir https://farazhaider.github.io/lispex/…
 https://github.com/Foo42/exlisp [elixirlang] Implementation of a lisp interpreter in elixir
 https://github.com/gablg1/blisp [elixirlang] Biel LISP - Simple Lisp interpreter in < 50 lines of code
@@ -37,4 +39,3 @@ https://github.com/subsetpark/pantagruel [] A program specification language wit
 https://github.com/thaterikperson/erie [elixirlang] A statically-typed lisp for the BEAM
 https://github.com/wpcarro/lispex [elixirlang] Lisp compiler written in Elixir
 https://github.com/Zeneixe/hack-vm [] VM language running on the Hack machine
-https://github.com/fabrik42/writing_an_interpreter_in_elixir [] Elixir implementation of an interpreter for the Monkey programming language
