@@ -216,3 +216,4 @@ $ make update
  - [Let’s Build A Simple Interpreter. Part 1. - ruslanspivak.com](https://ruslanspivak.com/lsbasi-part1/)
  - [A Meta-Interpreter - Excercise - Sprint 2018](https://people.kth.se/~johanmon/courses/id1019/seminars/interpreter/interpreter.pdf)
  - [Mary Had a Little Lambda: Implementing a Minimal Lisp for Assisting with Education - 2016 - Dissertation](https://www.cosc.canterbury.ac.nz/research/reports/HonsReps/2016/hons_1604.pdf)
+ - [Discover Elixir Compiler Internals - 2018/01/15 - video ](https://www.youtube.com/watch?v=kFPGmcGIrQ0)
