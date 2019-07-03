@@ -1,8 +1,4 @@
-## Examples for open source LiveView (Elixir / Phoenix) applications
-
-
-Found here:
-- https://github.com/search?l=elixir&o=desc&q=stars%3A%3E1+phoenix_live_view&s=indexed&type=Code
+# Smaller languages / interpreters for the BEAM VM
 
 
 ## Running the update
@@ -10,16 +6,6 @@ Found here:
 ```bash
 $ make update
 ```
-## Showing all umbrella projects
-
-```bash
-$ make umbrellas
-```
-
-### Umbrellas
-<!-- UMBRELLAS_LIST -->
-
-<!-- /UMBRELLAS_LIST -->
 
 ### Navigation
 
