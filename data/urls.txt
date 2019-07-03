@@ -39,3 +39,4 @@ https://github.com/subsetpark/pantagruel [] A program specification language wit
 https://github.com/thaterikperson/erie [elixirlang] A statically-typed lisp for the BEAM
 https://github.com/wpcarro/lispex [elixirlang] Lisp compiler written in Elixir
 https://github.com/Zeneixe/hack-vm [] VM language running on the Hack machine
+https://github.com/kanaka/mal [] mal - Make a Lisp
