@@ -3,6 +3,8 @@ https://github.com/akkartik/wart/ [] An experimental, small, readable Lisp with 
 https://github.com/alexdovzhanyn/amethyst [] 💎 The Amethyst programming language https://t.me/AmethystLang
 https://github.com/barakyo/elisper [elixirlang] Implementation of a subset of lisp in Elixir
 https://github.com/bkerley/lisp_in_elixir [elixirlang]
+https://github.com/bragful/ephp [php, erlang] Bragful core: PHP Interpreter in pure Erlang https://bragful.com
+https://github.com/bragful/ephp_template [php, erlang] PHP Template for Phoenix Framework https://bragful.com
 https://github.com/c-brenn/elixir-lisp [elixirlang] A lisp I made in Elixir
 https://github.com/CacheControl/json-rules-engine [javascript, json] A rules engine expressed in JSON
 https://github.com/CodeSteak/Bf2nasm [] A small Brainfuck compiler written in Elixir.
