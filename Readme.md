@@ -266,3 +266,23 @@ $ make update
 - https://maryrosecook.com/blog/post/little-lisp-interpreter
 - http://hyperpolyglot.org/lisp - Lisp: Common Lisp, Racket, Clojure, Emacs Lisp from HyperPolyglot
 
+Books: 
+ - https://ambrosebs.com/files/ambrosebs-phd-thesis.pdf - TYPED CLOJURE IN THEORY AND PRACTICE
+ - https://www.reddit.com/r/ProgrammingLanguages/comments/bwdc8g/useful_resources_for_writing_a_type_checker/ 
+ - https://www.reddit.com/r/ProgrammingLanguages/comments/bwfrx2/those_whove_written_a_programming_language_what/
+
+ Books: 
+  - https://ambrosebs.com/files/ambrosebs-phd-thesis.pdf - TYPED CLOJURE IN THEORY AND PRACTICE
+  - https://www.reddit.com/r/ProgrammingLanguages/comments/bwdc8g/useful_resources_for_writing_a_type_checker/ 
+  - https://www.reddit.com/r/ProgrammingLanguages/comments/bwfrx2/those_whove_written_a_programming_language_what/
+
+  Books: 
+   - https://ambrosebs.com/files/ambrosebs-phd-thesis.pdf - TYPED CLOJURE IN THEORY AND PRACTICE
+   - https://www.reddit.com/r/ProgrammingLanguages/comments/bwdc8g/useful_resources_for_writing_a_type_checker/ 
+   - https://www.reddit.com/r/ProgrammingLanguages/comments/bwfrx2/those_whove_written_a_programming_language_what/
+
+   Books: 
+    - https://ambrosebs.com/files/ambrosebs-phd-thesis.pdf - TYPED CLOJURE IN THEORY AND PRACTICE
+    - https://www.reddit.com/r/ProgrammingLanguages/comments/bwdc8g/useful_resources_for_writing_a_type_checker/ 
+    - https://www.reddit.com/r/ProgrammingLanguages/comments/bwfrx2/those_whove_written_a_programming_language_what/
+
